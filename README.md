@@ -38,6 +38,18 @@ In the dynamic retail landscape, efficient management of inventory is crucial fo
 
 ## Screen Captures
 
+### List of Products
+![Product List](https://github.com/VeniyelHsg/Veniyel_UAS_MobileComputing/assets/155172946/8b046a2f-9f27-43db-aa69-64e08196508d)
+
+### Add Product
+![Add Product Form](https://github.com/VeniyelHsg/Veniyel_UAS_MobileComputing/assets/155172946/b50a1786-074f-4306-b205-581c66d6c257)
+
+### Edit Product
+![Edit Product Form](https://github.com/VeniyelHsg/Veniyel_UAS_MobileComputing/assets/155172946/230efa5c-34f4-45a7-8314-07e2d7dde952)
+
+### Delete Product
+![Delete Product Confirmation Dialog](https://github.com/VeniyelHsg/Veniyel_UAS_MobileComputing/assets/155172946/95bdf92e-98ac-4ab2-9887-9ed15f2f40b8)
+
 ## Video
 
 ## Conclusion
