@@ -1,5 +1,11 @@
 # Inventory Management Application
 
+## Author
+- Nama         : Veniyel Hasugian
+- NIM          : 1313621045
+- Prodi        : Ilmu Komputer 2021
+- Mata Kuliah  : Mobile Computing
+
 ## Background
 
 In the dynamic retail landscape, efficient management of inventory is crucial for the success of any business. The Inventory Management Application is designed to streamline the process of handling and organizing product data in a store. This application provides a user-friendly interface to manage the inventory efficiently, ensuring accuracy and speed in dealing with product-related information.
@@ -29,6 +35,10 @@ In the dynamic retail landscape, efficient management of inventory is crucial fo
 - **Description**: Remove outdated or no longer available products from the inventory.
 - **Functionality**: Users can delete specific products, ensuring the database remains current and accurate.
 - **Benefits**: Helps maintain a clean and organized inventory by eliminating obsolete or irrelevant product entries.
+
+## Screen Captures
+
+## Video
 
 ## Conclusion
 
