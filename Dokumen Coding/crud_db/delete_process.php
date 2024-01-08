@@ -4,8 +4,8 @@ $id = $_GET["id"];
 
 
 //run a DELETE query to delete data
-$query = "DELETE FROM produk WHERE id='$id' ";
-$hasil_query = mysqli_query($connection, $query);
+$query = "DELETE FROM product WHERE id='$id' ";
+$results_query = mysqli_query($connection, $query);
 
 //check the query, is there any error
 if (!$results_query) {
