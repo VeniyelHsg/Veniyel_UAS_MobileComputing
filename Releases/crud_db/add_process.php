@@ -21,7 +21,7 @@ if ($product_pictures != "") {
   if (in_array($extension, $extension_allowed) === true) {
     move_uploaded_file($file_tmp, 'picture/' . $new_image_name);
     // run an INSERT query to add data to the database make sure it's in order (no need for id because it's generated automatically)
-    $query = "INSERT INTO product (product_name, description, purchase_price, selling_price, product_pictures) VALUES ('$product_name', '$description', '$purchase_price', '$selling_price', '$new_image_name')";
+    $query = "INSERT INTO product (product_name, description, purchase_price, selling_price, product_picture) VALUES ('$product_name', '$description', '$purchase_price', '$selling_price', '$new_image_name')";
     $result = mysqli_query($connection, $query);
     // check the query for errors
     if (!$result) {
@@ -38,7 +38,7 @@ if ($product_pictures != "") {
     echo "<script>alert('Image extension that can only be jpg or png.');window.location='add_product.php';</script>";
   }
 } else {
-  $query = "INSERT INTO product (product_name, description, purchase_price, selling_price, product_pictures) VALUES ('$product_name', '$description', '$purchase_price', '$selling_price', null)";
+  $query = "INSERT INTO product (product_name, description, purchase_price, selling_price, product_picture) VALUES ('$product_name', '$description', '$purchase_price', '$selling_price', null)";
   $result = mysqli_query($connection, $query);
   // check the query for errors
   if (!$result) {
