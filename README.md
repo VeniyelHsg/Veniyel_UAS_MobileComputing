@@ -51,6 +51,7 @@ In the dynamic retail landscape, efficient management of inventory is crucial fo
 ![Delete Product Confirmation Dialog](https://github.com/VeniyelHsg/Veniyel_UAS_MobileComputing/assets/155172946/95bdf92e-98ac-4ab2-9887-9ed15f2f40b8)
 
 ## Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EqoPMv9onhc/0.jpg)](https://www.youtube.com/watch?v=EqoPMv9onhc)
 
 ## Conclusion
 
